@@ -1,5 +1,7 @@
-### Build Status:
-[![CircleCI](https://circleci.com/gh/Plantia/app/tree/master.svg?style=shield)](https://circleci.com/gh/Plantia/app/tree/master)
+## Note:
+This repository serves as a snapshot of the state of the project as of the Lighthouse Labs Demo Day of December, 2016.
+
+At this point this repo is read-only, however the project is still being maintained at [brettgoss/plantia](https://github.com/brettgoss/plantia).
 
 # Plantia
 Keep track of your houseplants, the easy way.
